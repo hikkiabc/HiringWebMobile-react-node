@@ -1,0 +1,21 @@
+.am-navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  /* margin-bottom: 45px; */
+}
+
+.content{
+  margin-top: 45px;
+  height: 100%;
+  /* margin-bottom: 45px; */
+}
+
+html,#root{
+  height: 100%;
+  
+}
+.content .content1{
+  height: 100%;
+}

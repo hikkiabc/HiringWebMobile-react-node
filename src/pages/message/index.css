@@ -1,0 +1,20 @@
+.chat-container .input{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  flex-direction: column;
+  width: 100%;
+  /* z-index: 111; */
+}
+.input-input{
+  flex: 4 ;
+  /* width: 70%; */
+}
+.input-btn{
+  flex: 1 ;
+  height: 44px;
+  line-height: 44px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: rgb(56, 149, 255);
+}

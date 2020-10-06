@@ -1,0 +1,16 @@
+img{
+  width: 500px;
+}
+
+.img{
+  /* width: 300px; */
+  height:250px;
+  background-repeat: no-repeat;
+  background-image:url('./logo.png') ;
+  background-size: 100%;
+  background-position: center;
+}
+
+.active{
+  color: rgb(255, 123, 0);
+}

@@ -1,0 +1,12 @@
+.avatar-cpn .am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content .am-grid-icon{
+  width: 36% !important;
+}
+
+.avatar-cpn .am-list-header{
+  font-size: 15px;
+  height: 56px;
+}
+
+.avatar-cpn .avatar{
+  transition-duration:3s
+}
