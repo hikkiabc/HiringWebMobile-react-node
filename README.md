@@ -1,2 +1,2 @@
-A Hiring Web Mobile Version (React + Node)
+A Hiring Web Mobile Version (React + Node + MongoDB)
 
